@@ -1,0 +1,4 @@
+C:\Users\xsq4525\Documents\HololensA1\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;arm
+C:\Users\xsq4525\Documents\HololensA1\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;arm
+C:\Users\xsq4525\Documents\HololensA1\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;arm
+C:\Users\xsq4525\Documents\HololensA1\App\HololensA1\HololensA1.csproj;arm
